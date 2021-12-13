@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wissal",
+      "username": "Daoud",
+      "email": "Daoudwissal2000@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "name": "aya",
+      "username": "bk",
+      "email": "aya200@gmail.com",
+      "phone": "97654708",
+      "website": "www.atb.tn",
+      "id": 8
+    },
+    {
+      "name": "asma",
+      "username": "sa",
+      "email": "asmasa@hotmaill.com",
+      "phone": "98254632",
+      "website": "www.stb.tn",
+      "id": 9
+    },
+    {
+      "name": "med",
+      "username": "ka",
+      "email": "medka@gmail.tn",
+      "phone": "93214568",
+      "website": "www.art.com",
+      "id": 10
+    },
+    {
+      "name": "wissal",
+      "username": "da",
+      "email": "axa200@gmail.com",
+      "phone": "93214568",
+      "website": "www.gg.com",
+      "id": 11
+    }
+  ]
+}
